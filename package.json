@@ -4,7 +4,9 @@
   "description": "cronograma de jogos esportivos",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "vite build",
+    "dev": "vite",
+    "serve": "vite preview"
   },
   "repository": {
     "type": "git",
