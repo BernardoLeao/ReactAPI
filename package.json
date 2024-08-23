@@ -11,5 +11,8 @@
     "url": "\"https://github.com/BernardoLeao/APIReact\""
   },
   "author": "Bernardo Leao Braga",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^5.4.2"
+  }
 }
